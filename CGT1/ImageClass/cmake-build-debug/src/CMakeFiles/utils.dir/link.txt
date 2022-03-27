@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a  CMakeFiles/utils.dir/ImageClass.cpp.o CMakeFiles/utils.dir/Temporizador.cpp.o CMakeFiles/utils.dir/Texture.cpp.o CMakeFiles/utils.dir/TextureClass.cpp.o
+/usr/bin/ranlib libutils.a

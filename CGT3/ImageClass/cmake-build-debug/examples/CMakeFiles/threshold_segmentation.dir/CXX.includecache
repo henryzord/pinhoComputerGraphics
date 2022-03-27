@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SOIL/include/SOIL/SOIL.h
+
+../include/ImageClass.h
+iostream
+-
+cstdlib
+-
+cstring
+-
+windows.h
+-
+glut.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+SOIL/SOIL.h
+../include/SOIL/SOIL.h
+
+/home/henry/Projects/CGT3/ImageClass/examples/threshold_segmentation.cpp
+iostream
+-
+cmath
+-
+GLUT/glut.h
+-
+ImageClass.h
+/home/henry/Projects/CGT3/ImageClass/examples/ImageClass.h
+

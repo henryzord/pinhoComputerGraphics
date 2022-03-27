@@ -1,0 +1,15 @@
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/SOIL/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/SOIL/CMakeFiles/soil.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/SOIL/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/src/CMakeFiles/utils.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/example_histogram.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/convolutional_filter.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/median_filter.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/mean_filter_lap.dir
+/home/henry/Projects/CGT2/ImageClass/cmake-build-debug/examples/CMakeFiles/median_filter_lap.dir

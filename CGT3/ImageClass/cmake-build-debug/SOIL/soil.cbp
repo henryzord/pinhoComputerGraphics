@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="soil"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\SOIL\;CMake Files\src\;CMake Files\examples\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soil">
+				<Option output="/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/libsoil.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/henry/Projects/CGT3/ImageClass/SOIL/include"/>
+					<Add directory="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 soil"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soil/fast">
+				<Option output="/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/libsoil.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/henry/Projects/CGT3/ImageClass/SOIL/include"/>
+					<Add directory="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 soil/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/SOIL.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/image_DXT.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/image_helper.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/stb_image_aug.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/stbi_DDS_aug.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/include/SOIL/stbi_DDS_aug_c.h">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/src/SOIL.c">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/src/image_DXT.c">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/src/image_helper.c">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/src/stb_image_aug.c">
+			<Option target="soil"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/SOIL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SOIL\"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/henry/Projects/CGT3/ImageClass/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

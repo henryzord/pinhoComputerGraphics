@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/example_test.dir/example_test.cpp.o  -o example_test ../src/libutils.a ../SOIL/libsoil.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libjpeg.so 

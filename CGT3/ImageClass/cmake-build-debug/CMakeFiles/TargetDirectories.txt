@@ -1,0 +1,13 @@
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/CMakeFiles/soil.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/SOIL/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/src/CMakeFiles/utils.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/examples/CMakeFiles/threshold_segmentation.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/examples/CMakeFiles/example_histogram.dir
+/home/henry/Projects/CGT3/ImageClass/cmake-build-debug/examples/CMakeFiles/histogram.dir

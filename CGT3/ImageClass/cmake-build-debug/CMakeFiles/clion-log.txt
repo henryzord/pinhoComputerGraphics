@@ -1,0 +1,4 @@
+/home/henry/clion-2019.3.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/henry/Projects/CGT3/ImageClass
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/henry/Projects/CGT3/ImageClass/cmake-build-debug

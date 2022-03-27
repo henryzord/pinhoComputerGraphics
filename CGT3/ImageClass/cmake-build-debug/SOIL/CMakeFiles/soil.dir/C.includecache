@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SOIL/include/SOIL/stb_image_aug.h
+stdio.h
+-
+
+../SOIL/include/SOIL/stbi_DDS_aug.h
+
+../SOIL/include/SOIL/stbi_DDS_aug_c.h
+
+/home/henry/Projects/CGT3/ImageClass/SOIL/src/stb_image_aug.c
+stb_image_aug.h
+/home/henry/Projects/CGT3/ImageClass/SOIL/src/stb_image_aug.h
+math.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+assert.h
+-
+stdarg.h
+-
+stbi_DDS_aug.h
+/home/henry/Projects/CGT3/ImageClass/SOIL/src/stbi_DDS_aug.h
+stbi_DDS_aug_c.h
+/home/henry/Projects/CGT3/ImageClass/SOIL/src/stbi_DDS_aug_c.h
+

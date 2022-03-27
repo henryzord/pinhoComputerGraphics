@@ -1,0 +1,6 @@
+pip
+Pyshp
+numpy
+matplotlib
+pandas
+descartes
